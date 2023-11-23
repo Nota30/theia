@@ -8,7 +8,6 @@
 - [About](https://github.com/Nota30/theia#about)
 - [Installation](https://github.com/Nota30/theia#installation)
 - [Issues](https://github.com/Nota30/theia#issues)
-- [Contributing](https://github.com/Nota30/theia#contributing)
 
 # About
 
@@ -22,6 +21,19 @@ Theia is an application to help with the 20-20-20 rule for eyesight. Every 20 mi
 
 # Installation
 
+## Windows
+
+- Visit [Releases](https://github.com/Nota30/theia/releases) and install the latest version.
+
+## Linux
+
+- Requires `notify-send` to work.
+- Then visit [Releases](https://github.com/Nota30/theia/releases) and install the latest version.
+
+## Mac
+
+- Currently not supported.
+
 # Issues
 
-# Contributing
+- You can open an issue [here](https://github.com/Nota30/Kiko/issues)

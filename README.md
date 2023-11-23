@@ -21,6 +21,10 @@ Theia is an application to help with the 20-20-20 rule for eyesight. Every 20 mi
 
 # Installation
 
+**It is recommended you make the application startup automatically when you turn on your computer**
+
+- You can do this by visiting your settings > serach "startup"
+
 ## Windows
 
 - Visit [Releases](https://github.com/Nota30/theia/releases) and install the latest version.

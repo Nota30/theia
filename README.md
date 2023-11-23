@@ -36,4 +36,4 @@ Theia is an application to help with the 20-20-20 rule for eyesight. Every 20 mi
 
 # Issues
 
-- You can open an issue [here](https://github.com/Nota30/Kiko/issues)
+- You can open an issue [here](https://github.com/Nota30/theia/issues)

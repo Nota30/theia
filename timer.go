@@ -8,18 +8,14 @@ import (
 	"github.com/wailsapp/wails/v2/pkg/runtime"
 )
 
-// Timer struct
 type Timer struct {
 	ctx context.Context
 }
 
-// NewApp creates a new App application struct
 func NewTimer() *Timer {
 	return &Timer{}
 }
 
-// startup is called when the app starts. The context is saved
-// so we can call the runtime methods
 func (a *Timer) timerStartup(ctx context.Context) {
 	a.ctx = ctx
 

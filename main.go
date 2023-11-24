@@ -24,7 +24,7 @@ func main() {
 		StartHidden: true,
 		AlwaysOnTop: true,
 		Fullscreen: true,
-		BackgroundColour: &options.RGBA{R: 35, G: 43, B: 43, A: 1},
+		BackgroundColour: &options.RGBA{R: 27, G: 18, B: 18, A: 1},
 		OnStartup:        timer.timerStartup,
 		Bind: []interface{}{
 			timer,

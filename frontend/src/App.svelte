@@ -51,8 +51,8 @@
     <div>{mConv(elapsed)}</div>
   {:else}
     <div class="result" id="result">
-      Timer complete. Look at something 20 feet away for 20s.
-      <button class="button-4" role="button" on:click={quitApp}>Quit</button>
+      Time to rest your eyes. Look at something 20 feet away for 20s.
+      <button class="button-4"  on:click={quitApp}>Quit</button>
     </div>
   {/if}
 </main>
@@ -117,8 +117,8 @@
     left: 50%;
     margin-top: -50px;
     margin-left: -50px;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
   }
 
 </style>
